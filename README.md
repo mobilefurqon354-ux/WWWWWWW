@@ -42,4 +42,3 @@ The second line should end with `RESULT: 0 FAIL`. The third writes `episodes/bab
 
 MIT, see `LICENSE`. This skill grew out of Mr omi's free "Claude Animated Shorts" skill; his copyright notice stays in the licence. The character drawings, the sample film and its voice are shared for learning: make your own stories and characters, and do not re-upload the baboon film as your own.
 
-Community: https://www.skool.com/viral-shorts-by-cb-3069
