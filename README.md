@@ -1,7 +1,3 @@
-# Cartoon 3D Short: free Claude skill (Viral Shorts by CB)
-
-A Claude Code skill that makes narrated cartoon story Shorts: flat 2D puppet characters in a 3D world, planned in three.js and finished in Blender on your own PC. No AI video generator is used.
-
 **Start with [SETUP.md](SETUP.md).** It takes you from a fresh PC to your first storyboard.
 
 ## What is inside
